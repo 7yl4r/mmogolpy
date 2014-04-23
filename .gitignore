@@ -1,3 +1,6 @@
+# my custom windows startup script
+*start.bat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
