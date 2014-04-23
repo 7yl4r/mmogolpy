@@ -1,0 +1,11 @@
+a { 
+  font-size: xlarge; 
+  color: #333333
+}
+.local-change{ 
+  color: #008080;
+  font-weight: bold;
+}
+.remote-change{ 
+  color: #800080;
+}
